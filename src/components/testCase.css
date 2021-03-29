@@ -1,0 +1,26 @@
+.step{
+    /* grid-column: 1 / -1;
+    grid-row-start: 1;
+    grid-row-end: 2; */
+}
+
+.screenshot{
+    grid-column-start: 2;
+    grid-column-end: 4;
+    grid-row-end: 2;
+    margin: 0 auto;
+}
+/*
+.graphLeft{
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 2;
+    grid-row-end: 3;
+}
+
+.graphLeft{
+    grid-column-start: 3;
+    grid-column-end: 4;
+    grid-row-start: 2;
+    grid-row-end: 3;
+} */
